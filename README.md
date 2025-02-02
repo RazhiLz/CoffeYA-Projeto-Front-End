@@ -31,7 +31,7 @@ O HTML foi o alicerce do meu projeto. Eu criei as seções principais para o lay
         </ul>
     </nav>
 </header>
-
+```
 ## 2. Estilos CSS
 
 Usei o CSS para estilizar o layout e dar uma identidade visual ao site. Os estilos principais incluem:
@@ -46,6 +46,7 @@ Utilizei uma paleta de cores que combina tons de preto e dourado para criar um c
     --bg: #010103;
     --border: 0.1rem solid rgba(255, 255, 255, 0.3);
 }
+```
 ### Tipografia
 Utilizei a fonte "Roboto", que é clara e legível, dando um toque moderno ao site.
 
@@ -58,7 +59,7 @@ section {
     margin: 0 auto;
     max-width: 1200px;
 }
-
+```
 ### Interatividade
 Algumas interações foram adicionadas, como transições de cor e aumento de ícones ao passar o mouse, para dar um toque dinâmico ao site.
 
@@ -72,7 +73,7 @@ Algumas interações foram adicionadas, como transições de cor e aumento de í
     transform: scale(1.2);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
-
+```
 
 ## 🧑‍💻 Desafios e Aprendizados
 
